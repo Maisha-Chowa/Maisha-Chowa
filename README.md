@@ -1,39 +1,36 @@
 # 👋 Hi, I'm Maisha Maliha Chowa
 
-### 🚀 SQA Automation Engineer | MSc Student in Machine Learning
+### 🚀 SQA Automation Engineer @ Koolio.ai
 
-]I am a detail-oriented **SQA Automation Engineer** based in Dhaka, Bangladesh. Currently, I work at **Koolio.ai**, where I specialize in building robust automation frameworks for AI-powered Audio editing platforms. My professional journey began as a **MERN stack engineer**, giving me a deep understanding of the full development lifecycle which I now apply to ensuring high-quality software delivery.
+I am a Detail-oriented SQA Automation Engineer at Koolio.ai, specializing in architecting robust testing frameworks for AI-driven audio editing platforms. Leveraging a strong foundation as a MERN stack engineer, I bridge the gap between development and quality to ensure seamless full-lifecycle delivery. Growth-oriented and always evolving with the latest in tech.
 
 ---
 
 ### 🛠️ Core Technical Stack
 
-**Automation:** Playwright, Selenium, PyTest, Appium 
-**API & Performance:** Postman, Locust, JMeter REST Assured 
-**Languages:** Python, JavaScript (ES6+), TypeScript 
-**DevOps & Cloud:** GitHub Actions (CI/CD), GCP, Docker, PostgreSQL, MongoDB 
+| Category | Tech Stack |
+| :--- | :--- |
+| **Automation** | ![Playwright](https://img.shields.io) ![Selenium](https://img.shields.io) ![Appium](https://img.shields.io) |
+| **Languages** | ![JavaScript](https://img.shields.io) ![TypeScript](https://img.shields.io) ![Python](https://img.shields.io) |
+| **Performance/API** | ![Postman](https://img.shields.io) ![Locust](https://img.shields.io) ![RestAssured](https://img.shields.io) |
+| **DevOps/Cloud** | ![GitHub Actions](https://img.shields.io) ![GCP](https://img.shields.io) ![Docker](https://img.shields.io) |
 
 ---
 
-### 🧪 Professional Highlights
+### 🧪 Professional Impact
 
-Framework Engineering: Developed comprehensive UI and API automation suites using Playwright.
-Migration Success: Successfully migrated legacy Selenium codebases to Playwright, significantly improving execution speed and reducing flakiness.
-Infrastructure: Integrated automated testing into CI/CD pipelines via GitHub Actions and GCP.
-Performance Testing:  Utilized Locust to perform load testing, identifying system-breaking points for concurrent audio processing tasks.
-API Validation: Conducted rigorous API testing using Postman and monitored cloud infrastructure logs within GCP to troubleshoot backend bottlenecks.
-Full Testing Lifecycle: Developed detailed test cases from Product Requirement Documents (PRD) to ensure 100% feature coverage.
----
-
-### 📚 Academic & Research Interests
-
-Undergraduate Education:
-
-🎓 BSc in Computer Science & Engineering: Completed at Mawlana Bhashani Science & Technology University (2019-2024).
-
-📊 Academic Standing: Graduated with a CGPA of 3.59.
-
-💻 Technical Foundation: Developed a strong background in the MERN stack during my undergraduate years.
+*   **Framework Engineering:** Architected full-scale UI and API suites at Koolio.ai using **Playwright**.
+*   **Performance Optimization:** Identified critical bottlenecks in concurrent audio processing using **Locust**.
+*   **Infrastructure:** Established automated quality gates via **GitHub Actions** and **GCP** for seamless CI/CD.
+*   **Strategic Migration:** Led the transition from legacy Selenium to Playwright, boosting execution speed and reliability.
 
 ---
+
+### 📚 Academic Foundation
+*   **B.Sc. in Computer Science & Engineering** | MBSTU (2019-2024)
+
+---
+
 *"Quality is not an act, it is a habit."*
+
+📫 **Connect with me:** [LinkedIn]((https://www.linkedin.com/in/maisha-maliha-chowa/)) | [Portfolio](YOUR_PORTFOLIO_URL)
