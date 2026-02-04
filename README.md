@@ -17,14 +17,12 @@
 
 ### 🧪 Professional Highlights
 
-🧪 Professional Highlights
-
-**Framework Engineering:** Developed comprehensive UI and API automation suites using Playwright.
-**Migration Success:** Successfully migrated legacy Selenium codebases to Playwright, significantly improving execution speed and reducing flakiness.
-**Infrastructure:** Integrated automated testing into CI/CD pipelines via GitHub Actions and GCP.
-**Performance Testing: ** Utilized Locust to perform load testing, identifying system-breaking points for concurrent audio processing tasks.
-**API Validation: **Conducted rigorous API testing using Postman and monitored cloud infrastructure logs within GCP to troubleshoot backend bottlenecks.
-**Full Testing Lifecycle:** Developed detailed test cases from Product Requirement Documents (PRD) to ensure 100% feature coverage.
+Framework Engineering: Developed comprehensive UI and API automation suites using Playwright.
+Migration Success: Successfully migrated legacy Selenium codebases to Playwright, significantly improving execution speed and reducing flakiness.
+Infrastructure: Integrated automated testing into CI/CD pipelines via GitHub Actions and GCP.
+Performance Testing:  Utilized Locust to perform load testing, identifying system-breaking points for concurrent audio processing tasks.
+API Validation: Conducted rigorous API testing using Postman and monitored cloud infrastructure logs within GCP to troubleshoot backend bottlenecks.
+Full Testing Lifecycle: Developed detailed test cases from Product Requirement Documents (PRD) to ensure 100% feature coverage.
 ---
 
 ### 📚 Academic & Research Interests
