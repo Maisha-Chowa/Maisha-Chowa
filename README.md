@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Maisha Maliha Chowa
 
-### 🚀 SQA Automation Engineer @Koolio.ai
+### 🚀 SQA Automation Engineer
 
 I am a **Detail-oriented SQA Automation Engineer** at [Koolio.ai](https://koolio.ai), specializing in architecting robust testing frameworks for **AI-driven audio editing platforms**. 
 
@@ -17,7 +17,7 @@ I am a **Detail-oriented SQA Automation Engineer** at [Koolio.ai](https://koolio
 ---
 
 ### 📫 Let's Connect!
-👩‍💻 **Portfolio:** [maisha-chowa.github.io/Portfolio](https://maisha-chowa.github.io/Portfolio/)
+👩‍💻 **Portfolio:** [maisha-chowa.github.io/Portfolio](https://maisha-chowa.github.io/Portfolio/)  
 🤝 **LinkedIn:** [in/maisha-maliha-chowa](https://www.linkedin.com/in/maisha-maliha-chowa/)  
 📧 **Email:** [maisha.chowa@gmail.com]
 
