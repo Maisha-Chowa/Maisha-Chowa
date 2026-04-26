@@ -2,7 +2,7 @@
 
 ### 🚀 SQA Automation Engineer
 
-I am a **Detail-oriented SQA Automation Engineer** at [Koolio.ai](https://koolio.ai), specializing in architecting robust testing frameworks for **AI-driven audio editing platforms**. 
+I am a **Detail-oriented SQA Automation Engineer** at SAZIM, specializing in architecting robust testing frameworks for various product. 
 
 *   **The Dev-to-QA Edge:** Leveraging my foundation as a **MERN stack engineer**, I bridge the gap between development and quality to ensure seamless, high-performance delivery.
 *   **What I Do:** I design both manual and automated suites that tackle complex AI workflows, ensuring stability in rapidly evolving tech environments.
